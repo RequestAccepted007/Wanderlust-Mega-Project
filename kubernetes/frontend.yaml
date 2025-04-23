@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: umesh6363/wanderlust-frontend-beta:v2.2
+          image: umesh6363/wanderlust-frontend-beta:v2.3
           ports:
             - containerPort: 5173
 ---
